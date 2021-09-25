@@ -1,0 +1,4 @@
+# Assignment 1
+- **a.** Create a random dataset with two input features and one ouptut feature (class labels). The two input features shall be random variables sampled from a gaussian distribution with mean  8 , standard deviation of 1.5 as well as the output feature may be sampled from a binomial distribution with probability of 1 as 0.6. Create 20 instances of the sampled data and plot the same.
+- **b.** Create a random dataset with two input features and one ouptut feature. Create 20 instances of data by sampling the two input features from a gaussian distribution with mean  8 , standard deviation of 1.5. Label these instances as 0. Generate another 20 instances of data by sampling the two input features from a gaussian distribution with mean 15 and standard deviation 1.5 and label these instances as 1. Plot these.
+- **c.** Use the make_moon, make_circles, make_blobs functions to create from sklearn library to generate datasets and plot them.
